@@ -1,4 +1,9 @@
 ### Hi there 👋
+<h1>
+  Olá, visitante
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/gipht.gif" width="30px"/>
+</h1>
+
 
 <!--
 **cmsilveira/cmsilveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
