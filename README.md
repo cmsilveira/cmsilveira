@@ -3,6 +3,9 @@
 </h1>
 
 ### :nerd_face: Sobre mim
+   Eu sou Matheus, príncipe da Casa Silveira, defensor dos ensinamentos do Castelo de Lógica e Algoritmo.
+   Fabulosos conhecimentos secretos me foram revelados quando ergui meu mouse e disse: PELOS PODERES DE DENNIS RITCHIE!
+   A partir daí me tornei desenvolvedor, o homem mais aloprado do universo.
 
 - 👴 um velhinho de 42 anos que agora entende o ditado _"a vida começa aos 40"_.
 - 💻 aspirante a programador, último semestre de Análise e Desenvolvimento de Sistemas, em busca de um estágio para conclusão do curso.
