@@ -25,6 +25,7 @@
 - _"Se consegui ver mais longe, foi por estar em pé sobre ombros de gigantes"_ - Isaac Newton
 - _“Algumas pessoas nunca enlouquecem. Que vida horrível elas devem levar”_ - Charles Bukowski
 - _"Odeio quem me rouba a solidão sem, em troca, me oferecer verdadeira companhia"_ - Friedrich Nietzsche
+- _"Bons sonhos, doce Príncipe... se tivesses reinado, serias um grande rei"_ - Hamlet, Ato V, Cena II
 
 ---
 
