@@ -3,14 +3,15 @@
 </h1>
 
 ### :nerd_face: Sobre mim
-   Eu sou Matheus, príncipe da Casa Silveira, defensor dos ensinamentos do Castelo de Lógica e Algoritmo.
-   Fabulosos conhecimentos secretos me foram revelados quando ergui meu mouse e disse: PELOS PODERES DE DENNIS RITCHIE!
-   A partir daí me tornei desenvolvedor, o homem mais aloprado do universo.
+   <p>Eu sou Matheus, príncipe da Casa Silveira, defensor dos conhecimentos de Lógica e Algoritmo.<br>
+   Fabulosos conhecimentos secretos me foram revelados quando saí de minha zona de conforto e disse: <strong>EU MEREÇO COISA MELHOR!</strong><br>
+   A partir daí me tornei estudante de programação, o homem mais aloprado do universo.</p>
 
-- 👴 um velhinho de 42 anos que agora entende o ditado _"a vida começa aos 40"_.
-- 💻 aspirante a programador, último semestre de Análise e Desenvolvimento de Sistemas, em busca de um estágio para conclusão do curso.
-- 😺 amante de gatos, divide uma residência com 5, onde a paciência é testada a cada dia mas o amor por eles nunca é diminuído.
-- 🎧 sempre que possível, ouvindo música. Uma forma de distração das confusões do dia a dia.
+- 👴 um nerd de 42 anos que não aparenta a idade que tem.<br>
+- 💻 aspirante a programador, último semestre de <em>Análise e Desenvolvimento de Sistemas</em> e em busca de um estágio para conclusão do curso.<br>
+- 😺 amante de gatos, pai adotivo de 5.<br>
+- 🎧 sempre que possível, ouvindo música. Meu gosto musical vai de Belchior a Greta Van Fleet mas tenho carinho especial por <em>Pink Floyd</em> e <em>David Gilmour</em>.<br>
+- :gift: livros e canecas são meus presentes preferidos (só uma dica).<br>
 
 ---
 
