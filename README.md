@@ -4,13 +4,13 @@
 
 ### :nerd_face: Sobre mim
    <p>Eu sou Matheus, príncipe da Casa Silveira, defensor dos conhecimentos de Lógica e Algoritmo.<br>
-   Fabulosos conhecimentos secretos me foram revelados quando saí de minha zona de conforto e disse: <strong>EU MEREÇO COISA MELHOR!</strong><br>
-   A partir daí me tornei estudante de programação, o homem mais aloprado do universo.</p>
+   Fabulosos conhecimentos secretos me foram revelados quando iniciei minha trajetória no mundo da programação.<br>
+    A partir daí me tornei <strong>developer</strong>, o garoto de programa.</p>
 
 - 👴 um nerd de 42 anos que não aparenta a idade que tem.<br>
 - 💻 aspirante a programador, último semestre de <em>Análise e Desenvolvimento de Sistemas</em> e em busca de um estágio para conclusão do curso.<br>
 - 😺 amante de gatos, pai adotivo de 5.<br>
-- 🎧 sempre que possível, ouvindo música. Meu gosto musical vai de Belchior a Greta Van Fleet mas tenho carinho especial por <em>Pink Floyd</em> e <em>David Gilmour</em>.<br>
+- 🎧 sempre ouvindo música, que pode ser de Belchior a Greta Van Fleet, não importa o ritmo desde que o som toque a alma e tenho carinho especial pelo som do <em>Pink Floyd</em> e <em>David Gilmour</em>. (sertanejo e funk, nem pensar)<br>
 - :gift: livros e canecas são meus presentes preferidos (só uma dica).<br>
 
 ---
