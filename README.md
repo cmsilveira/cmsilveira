@@ -1,34 +1,40 @@
-<h1>
-    Olá, visitante <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<h1>Ol&aacute;, visitante <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width:30px" /></h1>
 
-### :nerd_face: Sobre mim
-   <p>Eu sou Matheus, príncipe da Casa Silveira, defensor dos conhecimentos de Lógica e Algoritmo.<br>
-   Fabulosos conhecimentos secretos me foram revelados quando iniciei minha trajetória no mundo da programação.<br>
-    A partir daí me tornei <strong>developer</strong>, o garoto de programa.</p>
+### 🤓&nbsp;Sobre mim
 
-- 👴 um nerd de 42 anos que não aparenta a idade que tem.<br>
-- 💻 aspirante a programador, último semestre de <em>Análise e Desenvolvimento de Sistemas</em> e em busca de um estágio para conclusão do curso.<br>
-- 😺 amante de gatos, pai adotivo de 5.<br>
-- 🎧 sempre ouvindo música, que pode ser de Belchior a Greta Van Fleet, não importa o ritmo desde que o som toque a alma e tenho carinho especial pelo som do <em>Pink Floyd</em> e <em>David Gilmour</em>. (sertanejo e funk, nem pensar)<br>
-- :gift: livros e canecas são meus presentes preferidos (só uma dica).<br>
+<p>
+    Eu sou Matheus, membro da <em>Casa Silveira</em>.<br />
+    Fabulosos conhecimentos secretos me foram revelados quando iniciei minha jornada no mundo da programa&ccedil;&atilde;o e, a partir da&iacute;, me tornei <strong>developer</strong>: <em>o garoto de programa</em>.
+</p>
 
----
-
-### :disappointed_relieved: Meu (pobre) status
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cmsilveira&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmsilveira&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+    👴 um&nbsp;<em>&quot;velhinho&quot;</em>&nbsp;de 42 anos.<br />
+    📚&nbsp;&nbsp;programador&nbsp;padawan em treinamento, &uacute;ltimo semestre de&nbsp;<strong><em>A</em></strong><em>n&aacute;lise e&nbsp;</em><strong><em>D</em></strong><em>esenvolvimento de&nbsp;</em><strong><em>S</em></strong><em>istemas e a</em>&nbsp;procura de um est&aacute;gio para conclus&atilde;o do curso.<br />
+    💻&nbsp;primog&ecirc;nito de um mestre programador, conhecia e dominava a linguagem dos antigos,&nbsp;<strong>Cobol</strong><em>.</em><br />    
+    😺&nbsp;amante de gatos, pai adotivo de 5, todos com nomes peculiares como&nbsp;<em>Dom Peridona</em>,&nbsp;<em>Hemolisado</em>,&nbsp;<em>Tacrolimus</em>,&nbsp;<em>Sirolimus</em>&nbsp;e&nbsp;<em>Possu&iacute;do</em>.<br />
+    🎧&nbsp;meu gosto musical pode ser conferido em&nbsp;<a href="https://bityli.com/mKmLvQHzo" style="color: rgb(250, 250, 250); background-color: transparent; box-sizing: border-box; text-decoration-line: none;" target="_blank">&lt; mah.fromDeezer/ &gt;</a>&nbsp;e&nbsp;<a href="https://bityli.com/hOUFHgXoy" style="color: rgb(250, 250, 250); background-color: transparent; box-sizing: border-box; text-decoration-line: none;" target="_blank">&lt; mah.playlist/ &gt;</a>.
+</p>
 
 ---
 
-### :thought_balloon: Citações que gosto
-- _"Se consegui ver mais longe, foi por estar em pé sobre ombros de gigantes"_ - Isaac Newton
-- _“Algumas pessoas nunca enlouquecem. Que vida horrível elas devem levar”_ - Charles Bukowski
-- _"Odeio quem me rouba a solidão sem, em troca, me oferecer verdadeira companhia"_ - Friedrich Nietzsche
-- _"Bons sonhos, doce Príncipe... se tivesses reinado, serias um grande rei"_ - Hamlet, Ato V, Cena II
+### 😥 Meu (pobre) status
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cmsilveira&amp;theme=dark&amp;background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmsilveira&amp;layout=compact&amp;theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### :passport_control: Quantos me visitaram?
-<img src="https://komarev.com/ghpvc/?username=cmsilveira&style=flat-square&color=blue" alt=""/>
+### 💭 Cita&ccedil;&otilde;es que gosto
+
+<p>
+    - <em>&quot;Se consegui ver mais longe, foi por estar em p&eacute; sobre ombros de gigantes&quot;</em> - Isaac Newton<br />
+    - <em>&ldquo;Algumas pessoas nunca enlouquecem. Que vida horr&iacute;vel elas devem levar&rdquo;</em> - Charles Bukowski<br />
+    - <em>&quot;Odeio quem me rouba a solid&atilde;o sem, em troca, me oferecer verdadeira companhia&quot;</em> - Friedrich Nietzsche<br />
+    - <em>&quot;Bons sonhos, doce Pr&iacute;ncipe... se tivesses reinado, serias um grande rei&quot;</em>&nbsp;- Hamlet, Ato V, Cena II<br />
+    -&nbsp;<em>&quot;Qual a sua responsabilidade na desordem da qual voc&ecirc; se queixa?&quot;</em> - Sigmund Freud
+</p>
+
+---
+
+### 🛂 Quantos me visitaram?
+<img alt="" src="https://komarev.com/ghpvc/?username=cmsilveira&amp;style=flat-square&amp;color=blue" /></p>
