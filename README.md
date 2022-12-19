@@ -3,15 +3,14 @@
 ### 🤓&nbsp;Sobre mim
 
 <p>
-    Eu sou Matheus, membro da <em>Casa Silveira</em>.<br />
+    Eu sou Matheus, membro da <em>Casa Silveira</em> e um rapaz latino americano de 42 anos, 1.75m, 70kg, sem dinheiro no banco, sem parentes importantes e vindo do interior.<br />
     Fabulosos conhecimentos secretos me foram revelados quando iniciei minha jornada no mundo da programa&ccedil;&atilde;o e, a partir da&iacute;, me tornei <strong>developer</strong>: <em>o garoto de programa</em>.
 </p>
 
 <p>
-    👴 um&nbsp;<em>&quot;velhinho&quot;</em>&nbsp;de 42 anos.<br />
     📚&nbsp;&nbsp;programador&nbsp;padawan em treinamento, &uacute;ltimo semestre de&nbsp;<strong><em>A</em></strong><em>n&aacute;lise e&nbsp;</em><strong><em>D</em></strong><em>esenvolvimento de&nbsp;</em><strong><em>S</em></strong><em>istemas e a</em>&nbsp;procura de um est&aacute;gio para conclus&atilde;o do curso.<br />
     💻&nbsp;primog&ecirc;nito de um mestre programador, conhecia e dominava a linguagem dos antigos,&nbsp;<strong>Cobol</strong><em>.</em><br />    
-    😺&nbsp;amante de gatos, pai adotivo de 5, todos com nomes peculiares como&nbsp;<em>Dom Peridona</em>,&nbsp;<em>Hemolisado</em>,&nbsp;<em>Tacrolimus</em>,&nbsp;<em>Sirolimus</em>&nbsp;e&nbsp;<em>Possu&iacute;do</em>.<br />
+    😺&nbsp;amante de gatos, pai adotivo de 5, todos com nomes peculiares: &nbsp;<em>Dom Peridona</em>,&nbsp;<em>Hemolisado</em>,&nbsp;<em>Tacrolimus</em>,&nbsp;<em>Sirolimus</em>&nbsp;e&nbsp;<em>Possu&iacute;do</em>.<br />
     🎧&nbsp;meu gosto musical pode ser conferido em&nbsp;<a href="https://bityli.com/mKmLvQHzo" style="color: rgb(250, 250, 250); background-color: transparent; box-sizing: border-box; text-decoration-line: none;" target="_blank">&lt; mah.fromDeezer/ &gt;</a>&nbsp;e&nbsp;<a href="https://bityli.com/hOUFHgXoy" style="color: rgb(250, 250, 250); background-color: transparent; box-sizing: border-box; text-decoration-line: none;" target="_blank">&lt; mah.playlist/ &gt;</a>.
 </p>
 
