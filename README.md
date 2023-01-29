@@ -1,39 +1,45 @@
-<h1>Ol&aacute;, visitante <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width:30px" /></h1>
+# Olá, visitante. 🖖
 
-### 🤓&nbsp;Sobre mim
+<br>
 
-<p>
-    Eu sou Matheus, membro da <em>Casa Silveira</em> e um rapaz latino americano de 42 anos, 1.75m, 70kg, sem dinheiro no banco, sem parentes importantes e vindo do interior.<br />
-    Fabulosos conhecimentos secretos me foram revelados quando iniciei minha jornada no mundo da programa&ccedil;&atilde;o e, a partir da&iacute;, me tornei <strong>developer</strong>: <em>o garoto de programa</em>.
-</p>
+## 🤓 Sobre mim
 
-<p>
-    📚&nbsp;&nbsp;programador&nbsp;padawan em treinamento, &uacute;ltimo semestre de&nbsp;<strong><em>A</em></strong><em>n&aacute;lise e&nbsp;</em><strong><em>D</em></strong><em>esenvolvimento de&nbsp;</em><strong><em>S</em></strong><em>istemas e a</em>&nbsp;procura de um est&aacute;gio para conclus&atilde;o do curso.<br />
-    💻&nbsp;primog&ecirc;nito de um mestre programador, conhecia e dominava a linguagem dos antigos,&nbsp;<strong>Cobol</strong><em>.</em><br />    
-    😺&nbsp;amante de gatos, pai adotivo de 5, todos com nomes peculiares: &nbsp;<em>Dom Peridona</em>,&nbsp;<em>Hemolisado</em>,&nbsp;<em>Tacrolimus</em>,&nbsp;<em>Sirolimus</em>&nbsp;e&nbsp;<em>Possu&iacute;do</em>.<br />
-    🎧&nbsp;meu gosto musical pode ser conferido em&nbsp;<a href="https://bityli.com/mKmLvQHzo" style="color: rgb(250, 250, 250); background-color: transparent; box-sizing: border-box; text-decoration-line: none;" target="_blank">&lt; mah.fromDeezer/ &gt;</a>&nbsp;e&nbsp;<a href="https://bityli.com/hOUFHgXoy" style="color: rgb(250, 250, 250); background-color: transparent; box-sizing: border-box; text-decoration-line: none;" target="_blank">&lt; mah.playlist/ &gt;</a>.
-</p>
+Eu sou Matheus, membro da *Casa Silveira*, um rapaz latino americano de 42 anos, 1.75m, 70kg, sem dinheiro no banco, sem parentes importantes e vindo do interior.  
+Fabulosos conhecimentos secretos me foram revelados quando iniciei minha jornada no mundo da programação e a partir daí me tornei **developer**, o praticante em linguagem de programação.
 
----
+📚 programador nível padawan, último semestre de **A**nálise e **D**esenvolvimento de **S**istemas, ainda com muito a aprender.  
+👩‍🦱 filho de uma mãe carinhosa, de quem ganhou cabelos enrolados e boa parte da inteligência.  
+👨‍🦳 filho de um mestre programador que dominava **COBOL**, a linguagem dos antigos.  
+🥰 irmão mais velho de uma irmãzinha que me enche de orgulho a cada dia.  
+😺 amante de felinos, é o humano de 5.  
+🎧 meu gosto musical pode ser conferido em [< mah.FromDeezer />](https://open.spotify.com/playlist/5nyCnbBqKN5DUniyWJf9r8?si=924380196c22469b) e [< mah.Playlist />](https://open.spotify.com/playlist/1z5H22RqbtM6cM0d6GhSJ1?si=0252864fa59f4888).
 
-### 😥 Meu (pobre) status
+<br>
+
+## 😥 Meu (pobre) status
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cmsilveira&amp;theme=dark&amp;background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmsilveira&amp;layout=compact&amp;theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
+<br>
 
-### 💭 Cita&ccedil;&otilde;es que gosto
+## 💭 Citações que gosto
 
-<p>
-    - <em>&quot;Se consegui ver mais longe, foi por estar em p&eacute; sobre ombros de gigantes&quot;</em> - Isaac Newton<br />
-    - <em>&ldquo;Algumas pessoas nunca enlouquecem. Que vida horr&iacute;vel elas devem levar&rdquo;</em> - Charles Bukowski<br />
-    - <em>&quot;Odeio quem me rouba a solid&atilde;o sem, em troca, me oferecer verdadeira companhia&quot;</em> - Friedrich Nietzsche<br />
-    - <em>&quot;Bons sonhos, doce Pr&iacute;ncipe... se tivesses reinado, serias um grande rei&quot;</em>&nbsp;- Hamlet, Ato V, Cena II<br />
-    -&nbsp;<em>&quot;Qual a sua responsabilidade na desordem da qual voc&ecirc; se queixa?&quot;</em> - Sigmund Freud
-</p>
+>  _"Leitor, se você procura seu monumento, olhe ao seu redor"_ - epitáfio de Christopher Wren
 
----
+>  _"Se consegui ver mais longe, foi por estar de pé sobre ombros de gigantes"_ - Isaac Newton
 
-### 🛂 Quantos me visitaram?
-<img alt="" src="https://komarev.com/ghpvc/?username=cmsilveira&amp;style=flat-square&amp;color=blue" /></p>
+>  _"Stay hungry, stay foolish"_ - Steve Jobs se referindo ao livro de mesmo nome de Rashmi Bansal
+
+>  _"Qual é a sua responsabilidade na desordem da qual você se queixa?"_ - Sigmund Freud
+
+>  _"Algumas pessoas nunca enlouquecem. Que vida horrível elas devem levar"_ - Charles Bukowski
+
+>  _"Bons sonhos, doce Príncipe... se tivesses reinado, serias um grande rei"_ - Hamlet, Ato V, Cena II
+
+>  _"Talk is cheap. Show me the code!"_ - Linus Torvalds
+
+<br>
+
+## 🛂 Quantos me visitaram?
+![](https://komarev.com/ghpvc/?username=cmsilveira&amp;style=flat-square&amp;color=green)
