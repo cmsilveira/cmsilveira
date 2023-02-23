@@ -1,8 +1,11 @@
-### Hi there 🖖
+### Hello there! 🗿🍷
 
 Some quick notes while I'm setting this up:
 
-* 🎓 I'm in the last semester of **Systems Analysis and Development**
-* 🔭 As a developer, I don't have experience yet so I take advantage of my free time to put into practice what I already know in small personal projects
-* 📨 How to reach me: [Outlook](carlos.matheus@outlook.com) or [GMail](c.matheus.mobile@gmail.com)
-* 😁 Pronouns: He/Him
+* 😶 Pronouns: he/him
+* 🎂 Birthday: 29/03 (♈)
+* 👍 Like: cats, beer, motorcycle, sleep, eat, procrastinate
+* 🎓 Graduation: last semester of **Systems Analysis and Development**
+* 📨 How to reach me: [Outlook](carlos.matheus@outlook.com) or [Gmail](c.matheus.mobile@gmail.com)
+
+_Developed with 🌿 by **Carlos Matheus**_ | ☕ [Buy me a Coffee?](https://user-images.githubusercontent.com/59747772/220985407-8597156d-16da-4d4d-9515-0ed17a05c5d1.png)
