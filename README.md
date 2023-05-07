@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 ## 🧐 Hello there! 🗿🍷
 
 Some quick notes while I'm setting this up:
