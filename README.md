@@ -45,6 +45,6 @@
 ##   <img src="./iconSpotify.png" alt="SpotifyIcon"> **Spotify**   
 > "Music is capable of reproducing, in its real form, the pain that tears the soul and the smile that inebriates" - Ludwig van Beethoven   
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hkxmpk44xjskoaw557hpy5jggy&cover_image=false&theme=compact&show_offline=false&background_color=000000&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=31hkxmpk44xjskoaw557hpy5jggy&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hkxmpk44xjskoaw557hpy5jggy&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=ff9400&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 _Made with_ :brain: _by_ **Carlos Matheus**
