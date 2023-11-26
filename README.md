@@ -1,5 +1,15 @@
 ![Header](./github-header-image.png)
 
+<div align="left">
+  <a href="https://api.daily.dev/get?r=johnmaddock" target="_blank">
+    <img
+      width="235"
+      align="right"
+      src="https://api.daily.dev/devcards/5506785403dd41dab578902ea993b21f.png?r=q9g"  alt="Carlos Matheus's Dev Card"
+    />
+  </a>
+</div>
+
 ## :zombie: About me?  
 > Who? Who is but the form following the function of what, and what I'm is a man in a mask.[^1]
 > [^1]: V in _V for Vendetta_  
