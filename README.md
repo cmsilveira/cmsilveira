@@ -1,25 +1,14 @@
 ![Header](./github-header-image.png)
 
-<div align="left">
-  <a href="https://api.daily.dev/get?r=johnmaddock" target="_blank">
-    <img
-      width="235"
-      align="right"
-      src="https://api.daily.dev/devcards/5506785403dd41dab578902ea993b21f.png?r=q9g"  alt="Carlos Matheus's Dev Card"
-    />
-  </a>
-</div>
-
 ## :zombie: About me?  
 > Who? Who is but the form following the function of what, and what I'm is a man in a mask.[^1]
 > [^1]: V in _V for Vendetta_  
 
 * :books: I've been studying programming since 2017
-* :seedling: I’m currently learning _C#_ and _Python_
+* :seedling: I’m currently learning _C#_
 * :telescope: I’m interested in studyng _JavaScript_
-* :mortar_board: Last semester of **Systems Analysis and Development**
-* :checkered_flag: I intend to be as good a programmer as my father was
-* :brazil: Born in Ribeirão Preto, Brazil
+* :mortar_board: I would like an internship. I only need this to complete the course and get the diploma.
+* :brazil: Born in Black Brook, Brazil
 
 ## :hammer_and_wrench: Where do I code?  
 > No! Try not. Do... or do not! There is no try.[^2]
