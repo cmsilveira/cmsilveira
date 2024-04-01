@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./GitHubHeader.png)
 
 ## :zombie: About me?  
 > Who? Who is but the form following the function of what, and what I'm is a man in a mask.[^1]
